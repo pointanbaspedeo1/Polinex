@@ -1,4 +1,4 @@
-# 🌌 Polinex Mod for Hypixel SkyBlock
+# 🌌 Polinex client for Hypixel SkyBlock
 
 **Polinex** is a premium, private SkyBlock modification focused on high-level automation, stealth, and quality-of-life improvements. Designed for efficiency-focused players, long-term macro users, and competitive farmers/miners, Polinex delivers **undetectable macros**, **custom logic engines**, and **elite failover protection**.
 
